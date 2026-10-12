@@ -4,11 +4,11 @@ Prompts I use in agentic development, kept with the context needed to understand
 
 ## Things to look for
 
-1. the goal, my standards and what "good" looks like.
-2. A **prompt writer** (an AI) improves it.
-3. A **prompt reviewer**, a separate AI instance with no stake in the result, reviews it.
-5. Whether the prompt was tested (positive/negative...)
-
+In each folder:
+1. The goal, my standards and what "good" looks like.
+2. How a prompt writer (an AI) improved my prompt.
+3. What a prompt reviewer, a separate AI instance with no stake in the result, caught.
+4. Whether the prompt was tested, and how.
 Every step gets its own reviewer, and nothing grades itself, including the prompts.
 
 ## Contents
