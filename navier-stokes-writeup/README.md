@@ -4,7 +4,7 @@ On September 8, 2026, OpenAI announced an AI-produced proof about the Navier–S
 
 These files record how I built a reviewer for one step of such a project: **does everything said in English match what the Lean verifies?** They also record how I tested it on OpenAI's actual materials.
 
-Article: [Technically correct, completely wrong](LINK-TO-ARTICLE)
+Article: [Technically correct, completely wrong](https://www.linkedin.com/pulse/technically-correct-completely-wrong-whos-reviewing-your-jad-nehme-7kmac/)
 
 ## The three roles
 
